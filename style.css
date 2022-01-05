@@ -3,6 +3,15 @@ body{font-family: 'Heebo', sans-serif;}
     display: flex;
     margin-bottom: 100px;
 }
+
+.sec2{
+    display: flex;
+    margin-bottom: 100px;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+  
+}
 .half-width{
     width: 50%;
     margin-left: 4%;
@@ -12,9 +21,42 @@ body{font-family: 'Heebo', sans-serif;}
 .half-width img{
     width: 60%;
 }
-#mission{
+.s1mission{
     color: gold;
 }
 h1{
     font-size: 50px;
+}
+#m22{
+    text-align: center;
+}
+.3width{
+    padding:5%;
+    width: 100%;
+    margin-left: 4%;
+    margin-right: 2%;
+}
+
+.s2mission{
+    background-color: rgba(230, 141, 145, 0.198);
+    border: 0px solid;
+    border-radius: 20px;
+    padding: 5%;
+    margin-left: 5%;
+}
+
+.s2vision{
+    background-color: rgb(241, 233, 160);
+    border: 0px solid;
+    border-radius: 20px;
+    padding: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.s2goals{
+    background-color: rgb(233, 167, 202);
+    border: 0px solid;
+    border-radius: 20px;
+    padding: 5%;
+
 }
