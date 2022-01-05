@@ -1,0 +1,20 @@
+body{font-family: 'Heebo', sans-serif;}
+.sec1{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 4%;
+    margin-right: 2%;
+
+}
+.half-width img{
+    width: 60%;
+}
+#mission{
+    color: gold;
+}
+h1{
+    font-size: 50px;
+}
