@@ -143,3 +143,15 @@ h1{
     background-size: 30%;
    background-position:right;
 }
+.doc{
+    width: 50%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.doc img{
+    width:80%;
+    
+}
+#downloaddoc{
+    text-align: center;
+}
