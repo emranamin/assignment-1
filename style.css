@@ -3,12 +3,12 @@ p,a{ font-family: 'Poppins', sans-serif;
 h2{
    font-family: 'Ubuntu', sans-serif;
 }
-.sec1{
+#sec1{
     display: flex;
     margin-bottom: 100px;
 }
 
-.sec2{
+#sec2{
     display: flex;
     margin-bottom: 100px;
     padding: 10px;
@@ -69,7 +69,7 @@ h1{
     margin-right: 2%;
 }
 
-.s2mission{
+#s2mission{
     background-color: rgba(230, 141, 145, 0.198);
     border: 0px solid;
     border-radius: 20px;
@@ -82,7 +82,7 @@ h1{
     background-repeat: no-repeat;
 }
 
-.s2vision{
+#s2vision{
     background-color: rgb(241, 233, 160);
     border: 0px solid;
     border-radius: 20px;
@@ -95,7 +95,7 @@ h1{
   
     background-repeat: no-repeat;
 }
-.s2goals{
+#s2goals{
     background-color: rgb(233, 167, 202);
     border: 0px solid;
     border-radius: 20px;
@@ -126,7 +126,7 @@ h1{
 .sec3h2{
     font-size: 45px;
 } 
-.circle{
+#circle{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 20%;
@@ -138,10 +138,11 @@ h1{
     font-family: 'Ubuntu', sans-serif;
 }
 #circle2{
-    background-image: url(images/shapes/shape-1.png);
+    
+    background-image: url(images/shapes/shape-9.png);
     background-repeat: no-repeat;
-    background-size: 30%;
-   background-position:right;
+    background-size: 10%;
+   background-position:bottom right;
 }
 .doc{
     width: 50%;
