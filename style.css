@@ -1,4 +1,8 @@
-body{font-family: 'Heebo', sans-serif;}
+p,a{ font-family: 'Poppins', sans-serif;
+}
+h2{
+   font-family: 'Ubuntu', sans-serif;
+}
 .sec1{
     display: flex;
     margin-bottom: 100px;
@@ -29,21 +33,28 @@ body{font-family: 'Heebo', sans-serif;}
 .half-width img{
     width: 60%;
 }
+#stayfocused{
+    border-left: 4px solid;
+    border-color:pink;
+    padding-left: 3%;
+   
+}
 .s1mission{
     color: gold;
 }
 
 .anchor{
+   
     border: 0px solid;
-    
-    border-radius: 10px;
+   color:whitesmoke;
+    border-radius: 8px;
     text-decoration: none;
     padding-right: 8%;
     padding-left: 8%;
-    padding-top: 1%;
-    padding-bottom: 0%;
-    background-color: gold;
-    background-image: linear-gradient(red orange );
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color:tomato;
+    
 }
 h1{
     font-size: 50px;
@@ -64,6 +75,11 @@ h1{
     border-radius: 20px;
     padding: 5%;
     margin-left: 5%;
+    background-image: url(images/illustrators/illustrator-1.png);
+    background-size: 28%;
+    background-position: center top;
+  
+    background-repeat: no-repeat;
 }
 
 .s2vision{
@@ -73,12 +89,22 @@ h1{
     padding: 5%;
     margin-left: 5%;
     margin-right: 5%;
+    background-image: url(images/illustrators/illustrator-2.png);
+    background-size: 28%;
+    background-position: center top;
+  
+    background-repeat: no-repeat;
 }
 .s2goals{
     background-color: rgb(233, 167, 202);
     border: 0px solid;
     border-radius: 20px;
     padding: 5%;
+    background-image: url(images/illustrators/illustrator-3.png);
+    background-size: 28%;
+    background-position: center top;
+  
+    background-repeat: no-repeat;
 
 }
 .half-width2{
@@ -98,11 +124,22 @@ h1{
     width: 90%;
 }
 .sec3h2{
-    font-size: 35px;
+    font-size: 45px;
 } 
 .circle{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 20%;
    background-position:left;
-}      
+}  
+.mvg{
+    text-align: center;
+    margin-top: 18%;
+    font-family: 'Ubuntu', sans-serif;
+}
+#circle2{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+   background-position:right;
+}
