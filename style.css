@@ -27,11 +27,11 @@ h2{
 .half-width{
     width: 50%;
     margin-left: 15%;
-    margin-right: 2%;
+    margin-right: 5%;
 
 }
 .half-width img{
-    width: 60%;
+    width: 120%;
 }
 #stayfocused{
     border-left: 4px solid;
@@ -154,4 +154,12 @@ h1{
 }
 #downloaddoc{
     text-align: center;
+}
+footer{
+    text-align: center;
+    color: cornsilk;
+    background-color: black;
+    border: 0px solid;
+    padding-top: 3%;
+    padding-bottom: 3%;
 }
